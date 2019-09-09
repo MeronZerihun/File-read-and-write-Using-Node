@@ -1,0 +1,19 @@
+{
+  "name": "file-read-and-write-using-node",
+  "version": "1.0.1",
+  "description": "File read and write",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeronZerihun/File-read-and-write-Using-Node.git"
+  },
+  "author": "Meron Zerihun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeronZerihun/File-read-and-write-Using-Node/issues"
+  },
+  "homepage": "https://github.com/MeronZerihun/File-read-and-write-Using-Node#readme"
+}
